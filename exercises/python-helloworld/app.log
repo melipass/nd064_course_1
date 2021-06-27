@@ -1,0 +1,20 @@
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2021 18:55:14] "GET / HTTP/1.1" 200 -
+DEBUG:app:2021-06-27 18:55:16.761115, metrics request successfull
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2021 18:55:16] "GET /metrics HTTP/1.1" 200 -
+DEBUG:app:2021-06-27 18:55:18.446777, status request successfull
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2021 18:55:18] "GET /status HTTP/1.1" 200 -
+DEBUG:app:2021-06-27 18:55:20.266660, metrics request successfull
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2021 18:55:20] "GET /metrics HTTP/1.1" 200 -
+DEBUG:app:2021-06-27 18:55:21.116114, status request successfull
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2021 18:55:21] "GET /status HTTP/1.1" 200 -
+DEBUG:app:2021-06-27 18:55:21.849832, metrics request successfull
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2021 18:55:21] "GET /metrics HTTP/1.1" 200 -
+DEBUG:app:2021-06-27 18:55:22.184332, metrics request successfull
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2021 18:55:22] "GET /metrics HTTP/1.1" 200 -
+DEBUG:app:2021-06-27 18:55:22.569785, metrics request successfull
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2021 18:55:22] "GET /metrics HTTP/1.1" 200 -
+DEBUG:app:2021-06-27 18:55:23.453767, status request successfull
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2021 18:55:23] "GET /status HTTP/1.1" 200 -
+DEBUG:app:2021-06-27 18:55:23.989189, status request successfull
+INFO:werkzeug:127.0.0.1 - - [27/Jun/2021 18:55:23] "GET /status HTTP/1.1" 200 -
